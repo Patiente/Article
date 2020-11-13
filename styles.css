@@ -1,0 +1,47 @@
+ .attribution { font-size: 11px; text-align: center; }
+ .attribution a { color: hsl(228, 45%, 44%); }
+ h2{
+ 	font-family: Bahnschrift;
+ }
+ body{
+ 	color:hsl(217, 19%, 35%);
+ 	background-color: hsl(210, 46%, 95%);
+ 	font-size:13px;
+ }
+ .div{
+ 	margin-left: 42%;
+ 	margin-top: -15.1%;
+ 	margin-right: 25%;
+ 	padding-top: 9px;
+ 	padding-bottom: 9px;
+ 	padding-left: 30px;
+
+ }
+ .img{
+ 	border-radius: 50%;
+ 	height: 40px;
+ 	width:40px;
+ }
+ .direction{
+ 	margin-left: 50px;
+ 	margin-top:-40px;
+
+ }
+ .share{
+ 	margin-left: 90%;
+ 	margin-top: -10px;
+ }
+ .size{
+ 	height:200px;
+ 	width: 300px;
+ 	margin-top: 10%;
+ 	margin-left: 20%;
+ }
+ #color{
+ 	background-color: white;
+ }
+ .radius{
+ 	border-radius: 2px;
+ 	border: 2px;
+ 	border-color: white;
+ }
